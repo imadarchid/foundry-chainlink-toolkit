@@ -6,6 +6,7 @@ test = 'test'
 libs = ['lib']
 via_ir = true
 solc_version = '0.8.19'
+unchecked_cheatcode_artifacts = true
 
 [profile.0_7_x]
 solc_version = '0.7.6'
